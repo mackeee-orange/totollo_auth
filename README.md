@@ -11,3 +11,4 @@
 ## コーディングルール
 ### GraphQL周り
 *
+hogehoge
